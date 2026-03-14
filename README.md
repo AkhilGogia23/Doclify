@@ -109,8 +109,3 @@ Doclify requires a **Google API Key**. Set it in your terminal environment:
 
 ---
 
-## 🤝 Contributing & License
-
-Contributions make the open-source community an amazing place! Feel free to fork, branch, and PR.
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
